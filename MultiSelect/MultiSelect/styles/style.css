@@ -1,0 +1,28 @@
+.custom-multiselect-panel {
+    min-width: 0;
+    width: 10px;
+}
+
+.p-multiselect-panel .p-multiselect-header{
+    padding: 4px 1px 1px 6px;
+}
+
+.p-multiselect-panel .p-multiselect-items .p-multiselect-item {
+    padding: 4px 1px 1px 6px;
+}
+.p-checkbox .p-checkbox-box {
+    width: 20px;
+    height: 20px;
+}
+
+.p-multiselect-panel .p-multiselect-header .p-checkbox {
+    margin-right: 0.2rem;
+}
+
+.p-multiselect-panel .p-multiselect-items .p-multiselect-item .p-checkbox {
+    margin-right: 0.2rem;
+}
+
+.p-multiselect-panel .p-multiselect-header .p-multiselect-filter-container .p-multiselect-filter-icon {
+    right: 0rem;
+}

@@ -1,0 +1,12 @@
+.custom-autocomplete-panel {
+    min-width: 0;
+    width: 100px;
+}
+
+.p-autocomplete-panel .p-autocomplete-items .p-autocomplete-item {
+    padding: 0px 1px 3px 4px;
+}
+
+.p-autocomplete-panel .p-autocomplete-items {
+    padding: 3px 0;
+}
